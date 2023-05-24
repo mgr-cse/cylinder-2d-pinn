@@ -19,5 +19,5 @@ training:
   max_steps : 110000
 
 batch_size:
-  initial_condition: 2048
-  interior: 2048
+  initial_condition: 8192
+  interior: 8192
